@@ -9,7 +9,8 @@ body {
 }
 .page-wrap {
     padding: 0% 4%;
-    margin: 3% 0% 0%;
+    margin: 3% auto 0%;
+    max-width: 606px;
 }
 .catalog-heading {
     margin: 0% 0% 2%;
