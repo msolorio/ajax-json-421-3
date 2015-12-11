@@ -12,7 +12,7 @@ function setJsonData(){
 				$('.catalog').append(
 					"<div class='course-div' id='"+value.id+"'>"+
 					"<h3 class='course-name'><span class='course-id'>"+value.id+"</span>, "+value.name+"</h3>"+
-					"<p class='course-description'>"+value.description+" <span class='course-units'><strong>"+value.units+"</strong></span></p>"+
+					"<p class='course-description'>"+value.description+" <span class='course-units'><strong>"+value.units+" units</strong></span></p>"+
 					"</div>"
 				);
 			});
