@@ -1,0 +1,20 @@
+{"catalog":[
+	{
+		"name":"Intro to Underwater Basketweaving",
+		"id":"uwbw101",
+		"description":"Students will learn the basics of underwater basketweaving. Topics covered include basic weave patterns, holding your breath underwater and weaving in fresh and salt water environments.",
+		"units":"3.0"
+	},
+	{
+		"name":"Intermediate Underwater Basketweaving",
+		"id":"uwbw201",
+		"description":"This class will cover intermediate underwater basketweaving techniques. Topics include more advanced weaves and weaving in a moving current.",
+		"units":"3.0"
+	},
+	{
+		"name":"Interdisciplinary Hat Making",
+		"id":"idhm104",
+		"description":"This class will cover the making of stylized headwear from various eras and cultures from around the world.",
+		"units":"3.0"
+	}
+]}
